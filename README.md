@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-A simple and beautiful Random Quote Generator built using **HTML**, **CSS**, and **JavaScript**.  
+A simple Random Quote Generator built using **HTML**, **CSS**, and **JavaScript**.  
 It fetches random inspirational quotes from an external API and even allows you to **tweet** your favorite quotes!
 
 ---
