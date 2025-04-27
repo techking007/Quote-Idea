@@ -27,7 +27,7 @@
         const response = await fetch(api_url);
         var data = await response.json();
         console.log(data);
-        quote.innerHTML = data.content;
+        quote.innerHTML = data.text;
         author.innerHTML = data.author;
     }
 
